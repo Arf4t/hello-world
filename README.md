@@ -1,6 +1,6 @@
 # hello-world
 my first repo
 Ezio Auditore
-Bayek
+Senu
 Geralt
 They are my favourite characters.
